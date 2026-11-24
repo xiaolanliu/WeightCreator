@@ -1,0 +1,5 @@
+# Install native LIBERO and its compatible MuJoCo/robosuite stack separately.
+numpy
+scipy
+pillow
+torch
